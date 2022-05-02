@@ -1,10 +1,9 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-# The simple dice game
-
+<h1>
 A simple game about rolling the dice.
+  <img src="https://media.giphy.com/media/I38qmkMXsMOFKsuer9/giphy.gif" width="30px"/>
+</h1>
+
+
 
 The sum of thrown numbers is cumulated until the player rolls 1 point.
 
